@@ -1,0 +1,34 @@
+[
+    {
+        "country": "CHILE",
+        "genres": [
+            "adventure",
+            "action",
+            "fantasy",
+            "family",
+            "fantasy",
+            "musical",
+            "romance"
+        ]
+    },
+    {
+        "country": "USA",
+        "genres": [
+            "amateur",
+            "alternative health",
+            "action",
+            "adventure"
+        ]
+    },
+    {
+        "country": "COLOMBIA",
+        "genres": [
+            "careers",
+            "christianity",
+            "college & high school",
+            "comedy",
+            "crime",
+            "design"
+        ]
+    }
+]

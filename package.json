@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "axios": "^1.6.7",
+    "mongodb": "^6.3.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.1"
+  }
+}
